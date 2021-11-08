@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hzothman
-- 👀 I’m interested in any coding
+- 👀 I’m interested in anything coding
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with anyone
 - 📫 email (hilmi.z.othman@intel.com) me to reach me
 
 <!---
